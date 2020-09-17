@@ -5,3 +5,4 @@ Hello, I am Hubert! I currently a student at the University of California Merced
 
 ## Skills 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubertle43100&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hubertle43100&hide=contribs,prs)
