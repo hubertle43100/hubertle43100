@@ -1,5 +1,3 @@
-### Hi, I'm Hubert Le
-#### Flutter Developer | Machine Learning enthusiast
 ![Flutter Developer](https://pbs.twimg.com/profile_banners/1306473970825179138/1600323823/1500x500)
 
 ## About Me
