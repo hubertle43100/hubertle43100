@@ -30,7 +30,6 @@ this foundation, I am a well-rounded promising developer. Thanks for checking ou
 <br>
 
 ### Some Apps that I have worked on
-`📝 Amotions`
 <br>
 
 <img src="https://github.com/Amotions/iOSmvp/assets/56861838/41e52cd5-050d-468b-9d8d-c4be0d5f7690" alt="Amotions" style="width: 790px; height: 450px;">
