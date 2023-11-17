@@ -10,11 +10,11 @@
 
 ```
 Hi, I am Hubert! I have been an iOS developer for about +3 years now with +1 year of professional experience
-on my belt and based on the Github profile you can see that I love visuals. Beatiful UI elements can make
-the whole navigation experience so pleasent. Currently, I'm searching for my next iOS Developer job oportunity.
+on my belt and based on the Github profile you can see that I love visuals. Beautiful UI elements can make
+the whole navigation experience so pleasant. Currently, I'm searching for my next iOS Developer job opportunity.
 I am heavy in Swift & SwiftUI with a hint of Objective-C. I have done many courses to showcase my knowledge
-on the topic 3 which are in Swift and recently I have completed Google's certificate program for UX/UI. With
-these foundation, I am a well rounded promising developer. Thanks for checking out my portfolio!
+on topic 3 which is in Swift and recently I have completed Google's certificate program for UX/UI. With
+this foundation, I am a well-rounded promising developer. Thanks for checking out my portfolio!
 ```
 <br>
 
