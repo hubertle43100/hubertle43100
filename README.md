@@ -35,7 +35,7 @@ this foundation, I am a well-rounded promising developer. Thanks for checking ou
 <img src="https://github.com/Amotions/iOSmvp/assets/56861838/41e52cd5-050d-468b-9d8d-c4be0d5f7690" alt="Amotions" style="width: 80%; display: block; margin: 0 auto;">
 <br>
 
-[![Project1](https://img.shields.io/badge/Go_To_Project-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://github.com/hubertle43100/UIDesign/tree/main/NewsAPI)
+[![Project1](https://img.shields.io/badge/Go_To_Project-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://github.com/Amotions/iOSmvp)
 <br>
 <br>
 <img src="https://github.com/hubertle43100/UIDesign/assets/56861838/a01a0391-f6e6-4501-8f83-c9855c127e7d" alt="Bulletin News" style="width: 80%; display: block; margin: 0 auto;">
