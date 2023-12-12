@@ -16,7 +16,22 @@ I am heavy in Swift & SwiftUI with a hint of Objective-C. I have done many cours
 on topic 3 which is in Swift and recently I have completed Google's certificate program for UX/UI. With
 this foundation, I am a well-rounded promising developer. Thanks for checking out my portfolio!
 ```
-<br>
+<be>
+
+<div style="display: flex; justify-content: space-around;">
+  <div align="center">
+    <a href="https://github-readme-tech-stack.vercel.app">
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=iOS+Developer&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=react%2Creact%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bprettier%2Cprettier%2Cauto%3B&line2=next.js%2Cnext.js%2Cffffff%3Btypescript%2Ctypescript%2Cauto%3Bstorybook%2Cstorybook%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+    </a>
+  </div>
+    <div align="center">
+    <a href="https://github-readme-tech-stack.vercel.app">
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Front-end+Developer&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=react%2Creact%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bprettier%2Cprettier%2Cauto%3B&line2=next.js%2Cnext.js%2Cffffff%3Btypescript%2Ctypescript%2Cauto%3Bstorybook%2Cstorybook%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+    </a>
+  </div>
+</div>
+
+
 
 **Contact Me**
 
