@@ -18,18 +18,12 @@ this foundation, I am a well-rounded promising developer. Thanks for checking ou
 ```
 <be>
 
-<div style="display: flex; justify-content: space-around;">
-  <div align="center">
-    <a href="https://github-readme-tech-stack.vercel.app">
-      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=iOS+Developer&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=react%2Creact%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bprettier%2Cprettier%2Cauto%3B&line2=next.js%2Cnext.js%2Cffffff%3Btypescript%2Ctypescript%2Cauto%3Bstorybook%2Cstorybook%2Cauto%3B" alt="GitHub Readme Tech Stack" />
-    </a>
-  </div>
-    <div align="center">
-    <a href="https://github-readme-tech-stack.vercel.app">
-      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Front-end+Developer&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=react%2Creact%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bprettier%2Cprettier%2Cauto%3B&line2=next.js%2Cnext.js%2Cffffff%3Btypescript%2Ctypescript%2Cauto%3Bstorybook%2Cstorybook%2Cauto%3B" alt="GitHub Readme Tech Stack" />
-    </a>
-  </div>
-</div>
+| iOS Developer                        |  Front-end Developer                            |
+|------------------------|------------------------------|
+| [![Email](https://img.shields.io/badge/Gmail-353839?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hubertle43100@gmail.com) [![Email](https://img.shields.io/badge/Figma-353839?style=for-the-badge&logo=figma&logoColor=white)](mailto:hubertle43100@gmail.com) | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hubertle43100@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubertle/) |
+
+
+
 
 
 
