@@ -1,6 +1,6 @@
 ## Hi, I'm Hubert
 
-🔎 &nbsp;` Currently looking for an iOS Developer position `
+🔎 &nbsp;` Currently looking for a front-end Developer/ iOS Developer position `
 <br>
 
 
