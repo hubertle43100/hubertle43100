@@ -34,38 +34,6 @@ this foundation, I am a well-rounded promising developer. Thanks for checking ou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubertle/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`hubertle`
 <br>
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/hubertle43100/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`hubertle43100`
-<br>
-<br>
-<br>
-
-### Some Apps that I have worked on
-<br>
-
-<a href="https://github.com/Amotions/iOSmvp">
-    <img src="https://github.com/Amotions/iOSmvp/assets/56861838/41e52cd5-050d-468b-9d8d-c4be0d5f7690" alt="Amotions" style="width: 80%; display: block; margin: 0 auto;">
-</a>
-<br>
-
-[![Project1](https://img.shields.io/badge/Go_To_Project-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://github.com/Amotions/iOSmvp)
-<br>
-<be>
-<a href="https://github.com/hubertle43100/UIDesign/tree/main/NewsAPI">
-  <img src="https://github.com/hubertle43100/UIDesign/assets/56861838/a01a0391-f6e6-4501-8f83-c9855c127e7d" alt="Bulletin News" style="width: 80%; display: block; margin: 0 auto;">
-</a>
-<br>
-[![Project1](https://img.shields.io/badge/Go_To_Project-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://github.com/hubertle43100/UIDesign/tree/main/NewsAPI)
-<br>
-<be>
-<a href="https://github.com/hubertle43100/Seven">
-<img src="https://github.com/hubertle43100/Seven/assets/56861838/45993a41-f3bb-49e4-b47d-48ba2f4b1cb1" alt="Need Seven" style="width: 80%; display: block; margin: 0 auto;">
-</a>
-<br>
-[![Project1](https://img.shields.io/badge/Go_To_Project-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://github.com/hubertle43100/Seven)
-<br>
-<br>
-
-
-
 </div>
 
 
