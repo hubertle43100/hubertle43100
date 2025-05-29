@@ -4,7 +4,8 @@
 <br>
 
 
-[![Resume](https://img.shields.io/badge/Resume-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)](https://docs.google.com/document/d/1MynGPj9bkSqfTeyKfiL5e3WI3WZZtAw-/edit?usp=sharing&ouid=112579190036506997443&rtpof=true&sd=true)
+[![Resume](https://img.shields.io/badge/Resume-2e6f40?style=for-the-badge&logo=H%20Club&logoColor=white)](https://docs.google.com/document/d/1MynGPj9bkSqfTeyKfiL5e3WI3WZZtAw-/edit?usp=sharing&ouid=112579190036506997443&rtpof=true&sd=true)
+[![Resume](https://img.shields.io/badge/Github-06402B?style=for-the-badge&logo=V%20Club&logoColor=white)](https://docs.google.com/document/d/1MynGPj9bkSqfTeyKfiL5e3WI3WZZtAw-/edit?usp=sharing&ouid=112579190036506997443&rtpof=true&sd=true)
 <br>
 <br>
 
