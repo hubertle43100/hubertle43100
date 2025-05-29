@@ -4,7 +4,7 @@
 <br>
 
 
-[![Resume](https://img.shields.io/badge/Resume-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)](https://docs.google.com/document/d/1Fc6ZAAm4Fiv0p0UK5F1iVpld3Pnl3anmL2_ca6cMP3w/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)](https://docs.google.com/document/d/1MynGPj9bkSqfTeyKfiL5e3WI3WZZtAw-/edit?usp=sharing&ouid=112579190036506997443&rtpof=true&sd=true)
 <br>
 <br>
 
